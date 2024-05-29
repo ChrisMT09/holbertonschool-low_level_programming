@@ -5,7 +5,6 @@
 /**
  * main - Start pointer
  * Return: Always 0
- * @n: num to print
  */
 int main(void)
 {
