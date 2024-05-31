@@ -1,4 +1,5 @@
 #include <unistd.h>
+#include "main.h"
 
 /**
  * main - Start pointer
@@ -7,6 +8,6 @@
 
 int main(void)
 {
-write(STDOUT_FILENO, "_putchar\n", 9)
+write(STDOUT_FILENO, "_putchar\n", 9);
 return (0);
 }
